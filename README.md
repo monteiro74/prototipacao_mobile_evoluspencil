@@ -34,3 +34,4 @@ Fonte:
 
 Visualização do projeto:
 
+![diagrama](https://github.com/monteiro74/prototipacao_mobile_evoluspencil/blob/main/Diagrama_v1.png?raw=true)
