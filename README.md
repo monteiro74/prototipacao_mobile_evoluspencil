@@ -1,7 +1,21 @@
 # prototipacao_mobile_evoluspencil
 Prototipação (desenho/diagrama) de app feito com Evolus Pencil Project
 
-Diferenças entre Wireframe x Mockup x Prototipação
+Projeto para modelagem de app via Evolus Pencil Project.
+Objetivos: Permitir que programadores possam realizar um rápida prototipação de uma aplicação mobile, usando uma ferramenta de diagramação.
+
+Descrição de arquivos:
+
+Diagrama_v1.pdf contém um arquivo PDF com um esquema hierarquico de navegação entre as telas.
+Diagrama_v1.png é identico ao PDF, no formato PNG (para ser utilizado na página principal do projeto).
+refman.pdf arquivo gerado pelo Doxygen via Doxywizard, é a documentação automática do projeto. A documentação gerada automaticamente pelo doxygen esta na url: https://www.messier83.com.br/prototipacao_mobile_csharp/documentacao/index.html
+A imagem imagem_fundo_cel.jpg é uma figura utilizada como fundo dos formulários, a fonte da figura é: https://pixabay.com/pt/vectors/andr%c3%b3ide-nexus-5-telefone-1294370/, os créditos desta figura são de: OpenClipart-Vectors. A imagem imagem_fundo_cel.png esta localizado no projeto em WindowsFormsApp2/Properties /imagens/ sob o nome de android1.png
+Foi utilizado o MaterialSkin versão 0.2.2 baixado via NuGet, existe uma atualização aqui: https://www.nuget.org/packages/MaterialSkin.2/
+WindowsFormsSimulacaoAppMobile_v1.zip contém o arquivo de solução e códigos fontes em Csharp para ser aberto no Visual Studio.
+Licença Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) : [cc-by-nc-sa-image]: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+
+#### Diferenças entre Wireframe x Mockup x Prototipação
 
 | Wireframe  | Mockup | Prototipo |
 | ------------- | ------------- | ------- |
