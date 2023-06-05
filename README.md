@@ -1,12 +1,12 @@
 # prototipacao_mobile_evoluspencil
 Prototipação (desenho/diagrama) de app feito com Evolus Pencil Project
 
-Projeto para modelagem de app via Evolus Pencil Project.
+Projeto para modelagem de app via [Evolus Pencil Project](https://pencil.evolus.vn/).
 Objetivos: Permitir que programadores possam realizar um rápida prototipação de uma aplicação mobile, usando uma ferramenta de diagramação.
 
 Descrição de arquivos:
-Diagrama_v1.pdf contém um arquivo PDF com um esquema hierarquico de navegação entre as telas.
-Diagrama_v1.png é identico ao PDF, no formato PNG (para ser utilizado na página principal do projeto).
+* Diagrama_v1.epgz contém o projeto do diagrama/desenho feito na ferramenta Evolus Pencil.
+* Diagrama_v1.png é identico ao epgz exportado em formato bitmap.
 
 Licença Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) : [cc-by-nc-sa-image]: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
