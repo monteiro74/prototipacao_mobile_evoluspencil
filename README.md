@@ -36,3 +36,13 @@ Fonte:
 Visualização do projeto:
 
 ![diagrama](https://github.com/monteiro74/prototipacao_mobile_evoluspencil/blob/main/Diagrama_v1.png?raw=true)
+
+
+
+### Projetos para testes e experimentação com design/prototipação:
+
+* https://github.com/monteiro74/prototipacao_flutterflow1
+* https://github.com/monteiro74/prototipacao_mobile_evoluspencil
+* https://github.com/monteiro74/prototipacao_mobile_csharp
+* https://github.com/monteiro74/prototipacao_mobile_DelphiFMX
+
