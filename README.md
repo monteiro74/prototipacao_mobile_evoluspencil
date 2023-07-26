@@ -46,3 +46,22 @@ Visualização do projeto:
 * https://github.com/monteiro74/prototipacao_mobile_csharp
 * https://github.com/monteiro74/prototipacao_mobile_DelphiFMX
 
+
+
+Histórico de atualizações nos repositórios do Prof. Dr. Monteiro:<br>
+[![teste](https://github-readme-activity-graph.vercel.app/graph?username=monteiro74&theme=github-compact)](https://github.com/monteiro74/prototipacao_mobile_evoluspencil)
+
+Pulse:<br>
+https://github.com/monteiro74/prototipacao_mobile_evoluspencil/pulse<BR>
+
+Contribuições de:<br>
+https://github.com/monteiro74/prototipacao_mobile_evoluspencil/contributors<BR>
+
+Histórico de frequência de código:<BR>
+https://github.com/monteiro74/prototipacao_mobile_evoluspencil/graphs/code-frequency<BR>
+
+Atividade de commits:<BR>
+https://github.com/monteiro74/prototipacao_mobile_evoluspencil/graphs/commit-activity<BR>
+
+Trafego:<BR>
+https://github.com/monteiro74/prototipacao_mobile_evoluspencil/graphs/traffic<BR>
