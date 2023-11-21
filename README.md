@@ -74,3 +74,12 @@ https://github.com/monteiro74/prototipacao_mobile_evoluspencil/graphs/commit-act
 
 Trafego:<BR>
 https://github.com/monteiro74/prototipacao_mobile_evoluspencil/graphs/traffic<BR>
+
+![stats](https://github-readme-stats.vercel.app/api?username=monteiro74&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+![stats](https://github-readme-stats.vercel.app/api?username=monteiro74&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monteiro74)](https://github.com/monteiro74/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monteiro74&layout=donut-vertical)](https://github.com/monteiro74/github-readme-stats)
+
